@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-wp-archive-js",
+    "path": "/archive",
+    "result": {"data":{"allWpPost":{"nodes":[{"id":"cG9zdDoxMQ==","title":"Test Post 3","content":"\n<p>This is the third test post</p>\n","uri":"/post/test-post-3/","author":{"node":{"id":"dXNlcjox","name":"admin","description":null}}},{"id":"cG9zdDo2","title":"Test Post 2","content":"\n<p>This is a second post to test archive page</p>\n","uri":"/post/test-post-2/","author":{"node":{"id":"dXNlcjox","name":"admin","description":null}}},{"id":"cG9zdDox","title":"Hello world!","content":"\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n","uri":"/post/hello-world/","author":{"node":{"id":"dXNlcjox","name":"admin","description":null}}}]}},"pageContext":{"0":{"id":"cG9zdDoxMQ==","uri":"/post/test-post-3/"},"1":{"id":"cG9zdDo2","uri":"/post/test-post-2/"},"2":{"id":"cG9zdDox","uri":"/post/hello-world/"}}},
+    "staticQueryHashes": []}
