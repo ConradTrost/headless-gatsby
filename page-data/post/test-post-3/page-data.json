@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-wp-post-js",
-    "path": "/post/test-post-3/",
-    "result": {"data":{"wpPost":{"id":"cG9zdDoxMQ==","title":"Test Post 3","content":"\n<p>This is the third test post</p>\n","author":{"node":{"id":"dXNlcjox","name":"admin","description":null}}}},"pageContext":{"id":"cG9zdDoxMQ==","uri":"/post/test-post-3/"}},
-    "staticQueryHashes": []}
