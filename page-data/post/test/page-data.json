@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-wp-post-js",
     "path": "/post/test/",
-    "result": {"data":{"wpPost":{"id":"cG9zdDoxNA==","title":"test","content":"\n<p>teste</p>\n","author":{"node":{"id":"dXNlcjox","name":"conrad","description":null}}}},"pageContext":{"id":"cG9zdDoxNA==","uri":"/post/test/"}},
+    "result": {"data":{"wpPost":{"id":"cG9zdDoxNA==","title":"What Is This Site?","content":"\n<p>This site is a test for headless WordPress. The backend (WordPress) is hosted on Digital Ocean and is providing a GraphQL endpoint. The frontend (Gatsby) pulls from this endpoint to display new posts.</p>\n","author":{"node":{"id":"dXNlcjox","name":"conrad","description":null}}}},"pageContext":{"id":"cG9zdDoxNA==","uri":"/post/test/"}},
     "staticQueryHashes": []}
